@@ -1,4 +1,4 @@
-<h1 align="center"> Apliacação mobile de registro de ponto de funcionarios </h1>
+<h1 align="center"> Apliacação mobile de registro de ponto </h1>
 <p align="center"> Tela de login </p>
 
 ## 📱 Layout
